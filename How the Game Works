@@ -1,0 +1,9 @@
+// how the game works
+
+
+// There is Feul System if you move left or Right feul will be used up You Can re Feul  by touching the Feul tanks in the Game Your feul will be added by 2
+// but if you took fuel more then its limit(150) then the Feul Tank will be overloaded and it will brust (Game over)
+
+// there is also car's health system if u touch the barriers then your car health will be deducted if its 0 then game over you can repair the car by touching the Wrenches 
+
+enjoy.
